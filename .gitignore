@@ -1,0 +1,5 @@
+.pnpm-store/
+coverage/
+*.log
+node_modules/
+.env.local
